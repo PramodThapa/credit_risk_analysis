@@ -1,6 +1,5 @@
 # credit_risk_analysis
-The project includes the model evaluation with five diffent machine learning algorithms. Each algorith is tained and tested with preprocessed and normalized dataset and tuned with their respective hyper parameters to get best value of evaluation metric. 
-
+The project includes the model evaluation with five different machine learning algorithms. Each algorithm is trained and tested with pre-processed and normalized datasets and tuned with their respective hyper parameters to get best value of evaluation metric.
 The dataset is provided by Imperical College in Kaggle. The dataset consist of financial transaction of customer history.
 
 Kataset link:https://www.kaggle.com/c/loan-default-prediction/data
