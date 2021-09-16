@@ -3,7 +3,7 @@ The project includes the model evaluation with five diffent machine learning alg
 
 The dataset is provided by Imperical College in Kaggle. The dataset consist of financial transaction of customer history.
 
-dataset link:https://www.kaggle.com/c/loan-default-prediction/data
+Kataset link:https://www.kaggle.com/c/loan-default-prediction/data
 
 
 # Methodology
@@ -21,7 +21,7 @@ dataset link:https://www.kaggle.com/c/loan-default-prediction/data
 6. Normalization
 7. Feature Deduction
 
-# Model Generation
+# Model 
 1. Decison tree
 2. Logistic Regression
 3. Random forest
